@@ -1,3 +1,5 @@
-## Kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 
-# Installation
+Bu repo - [Kodluyoruz](https://kodluyoruz.org/)
+
+## Installation
